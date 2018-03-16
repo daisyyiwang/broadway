@@ -1,0 +1,57 @@
+body{
+  text-align: center;
+}
+
+.landing{
+  color: white;
+  background-image: url(../images/background.png);
+}
+
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.nav{
+  font-family: Helvetica;
+  font-size: 18px;
+  text-decoration: underline;
+}
+
+.process{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight:bold;
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.newyork{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/background.png);
+}
+
+.footer{
+  font-family: Helvetica;
+  font-size: 11px;
+  color:white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footernav{
+  text-decoration: underline;
+}
